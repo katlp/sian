@@ -20,7 +20,7 @@ footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
-	border: 0;
+	border: 5;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
@@ -205,7 +205,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #dddddd;
+		border-bottom: solid 1px #ffffff;
 		margin: 2em 0;
 	}
 
@@ -1981,7 +1981,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #61686b;
+		color: #0d0d0e;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -2809,7 +2809,7 @@ input, select, textarea {
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			#header header a {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 			}
 
 				#header header a:hover {
-					color: #ffffff !important;
+					color: #000000 !important;
 				}
 
 			#header header h1 {
@@ -2831,7 +2831,7 @@ input, select, textarea {
 				}
 
 			#header header p {
-				color: #ffffff;
+				color: #000000;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
